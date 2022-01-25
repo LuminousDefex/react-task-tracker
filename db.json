@@ -17,6 +17,12 @@
       "day": "Jan 27th at 5:00pm",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "Movie",
+      "day": "Jan 28th at 9:00pm",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
