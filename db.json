@@ -7,16 +7,16 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Submit Interview Quiz",
-      "day": "Jan 21th at 10:00pm",
-      "reminder": true
-    },
-    {
       "id": 3,
       "text": "Pay Bills",
       "day": "Feb 1st at 10:00am",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Interview",
+      "day": "Jan 27th at 5:00pm",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
