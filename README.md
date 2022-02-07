@@ -1,1 +1,1 @@
-Testing React with a simple Task Tracker with fake Backend
+A very simple React Task Tracker with fake backend
